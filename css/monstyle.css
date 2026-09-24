@@ -1,0 +1,6 @@
+/* Small project-specific overrides for ACF2L */
+
+.paragraphe1 {
+  font-size: 1rem;
+  color: inherit;
+}
